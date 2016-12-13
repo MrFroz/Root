@@ -1,1 +1,2 @@
-Write-Host 'Depui pe je conte plu mon sexx en metre.'
+Write-Host 'ROOTKIT'
+& 'C:\RootKit\powershell.exe'
